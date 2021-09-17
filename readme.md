@@ -1,2 +1,2 @@
-# Project implementation of recycler view, glid and sort functionality
+# Project implementation of recycler view, glide and sort functionality
 Practice project.
